@@ -1,0 +1,4 @@
+D:\C#  Basic Programming\01 Addition Of Two Number\01 Addition Of Two Number\bin\Debug\01 Addition Of Two Number.exe
+D:\C#  Basic Programming\01 Addition Of Two Number\01 Addition Of Two Number\bin\Debug\01 Addition Of Two Number.pdb
+D:\C#  Basic Programming\01 Addition Of Two Number\01 Addition Of Two Number\obj\x86\Debug\01 Addition Of Two Number.exe
+D:\C#  Basic Programming\01 Addition Of Two Number\01 Addition Of Two Number\obj\x86\Debug\01 Addition Of Two Number.pdb
